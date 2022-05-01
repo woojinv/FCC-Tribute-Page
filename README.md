@@ -9,7 +9,7 @@ It was built using only **HTML** and **CSS** for Part 1 of FreeCodeCamp's *Respo
 
 ## What I learned
 
-I became more comfortable centering content, utilzing media queries, and responsively sizing images.
+I became more comfortable centering content, utilizing media queries, and responsively sizing images.
 
 ## Screenshots
 
